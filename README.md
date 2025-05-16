@@ -122,20 +122,3 @@ restaurant-recommender/
 | Evaluation Report        | Markdown/PDF with results and feedback |
 | Deployment               | Public link on Streamlit Cloud or Render |
 
-## 📈 Future Enhancements
-
-- 🔔 **Notification System** for favorite cuisines
-- 📍 **Location Detection** via geolocation API
-- 🗃️ **User Profiles** for storing preferences
-- 💡 **Hybrid Model**: Combine knowledge-based and collaborative filtering
-- 🧠 **ML Integration**: Predict user preferences using classification models
-
-## 🌐 Live Demo
-
-*(Optional — Add your Streamlit Cloud deployment link here)*
-
-## 👤 Author
-
-**Your Name**  
-📧 *your.email@example.com*  
-🔗 [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
